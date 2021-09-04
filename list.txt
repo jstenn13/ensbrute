@@ -4,7 +4,6 @@ kent
 lunch
 milano
 nextstep
-op
 panacea
 peacock
 perfume
@@ -13,7 +12,6 @@ ppl
 production
 puma
 ramen
-rc
 reserve
 reward
 rubicon
